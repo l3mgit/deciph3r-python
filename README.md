@@ -29,3 +29,10 @@ git clone https://github.com/l3mgit/deciph3r-python.git
 cd deciph3r-python
 
 python3 deciph3r-python.py -h
+```
+
+## 🧪 Example usage
+
+```bash
+python3 deciph3r-python.py -f cipher.txt --mode decipher -o
+```
