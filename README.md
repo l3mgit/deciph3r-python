@@ -23,7 +23,9 @@ deciph3r-python is a versatile Python CLI tool that analyzes and deciphers encod
 
 Clone the repository and run the script directly:
 
-`bash
+```bash
 git clone https://github.com/l3mgit/deciph3r-python.git
+
 cd deciph3r-python
+
 python3 deciph3r-python.py -h
